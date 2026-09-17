@@ -18,6 +18,3 @@ All scripts are in analysis_us_flight/, numbered in execution order:
 4_Gold_table_creation.sql — SQL script for creating the tables present in the star schema
 5_Gold_data_insertion.sql — SQL script for inserting data from the Silver layer into the Gold layer
 
-
-
-
