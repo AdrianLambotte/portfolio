@@ -12,9 +12,9 @@ The complete methodology and analysis are available in my [Notion Portfolio](htt
 
 All scripts are in analysis_us_flight/, numbered in execution order:
 
-1_Bronze_staging_python.ipynb — Python script for data exportation into the Bronze layer
-2_Bronze_staging.sql — SQL script for assigning primary and foreign keys
-3_Silver.sql — SQL script for cleaning and standardising the data
-4_Gold_table_creation.sql — SQL script for creating the tables present in the star schema
+1_Bronze_staging_python.ipynb — Python script for data exportation into the Bronze layer  
+2_Bronze_staging.sql — SQL script for assigning primary and foreign keys  
+3_Silver.sql — SQL script for cleaning and standardising the data  
+4_Gold_table_creation.sql — SQL script for creating the tables present in the star schema  
 5_Gold_data_insertion.sql — SQL script for inserting data from the Silver layer into the Gold layer
 
