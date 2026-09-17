@@ -1,4 +1,5 @@
 # Portfolio
+In this page, you can find all the scripts that I wrote for my projects.
 
 ## Project : Analysis of U.S. Domestic Flight Delays Between 2019 And 2025
 This project analyses the U.S. domestic flight departure delays between 2019 and 2025. The aim is to understand which factors influence the departure delays. To do so, I will examine the delay from several angles (airport size, demographics, weather, etc.).
