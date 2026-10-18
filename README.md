@@ -15,6 +15,10 @@ After these projects, I wanted to dive into the world of Data and AI, so I start
 - **Data Engineering:** Dimensional modeling, ETL pipelines (SSIS), SQL Server, Azure / Microsoft Fabric
 - **Data Science:** Machine learning (supervised and unsupervised)
 
+## My Projects
+
+This repository is my data portfolio. Each project comes with its context, the scripts used, and the final dashboard, so you can follow the full workflow from raw data to insights.
+
 ### ✈️ [Analysis of U.S. Domestic Flight Delays (2019–2025)](./flight-delays)
 
 Understand which factors influence departure delays at US airports, examining them from several angles (airport size, demographics, weather, etc.).
