@@ -30,34 +30,51 @@ In total, I analyse more than 10M flights departing from 15 airports over a 6-ye
 
 ## Dashboard
 
-![Dashboard page 1](dashboard/0.PNG)
+**Dashboard page 1**
 
-![Dashboard page 2](dashboard/1.PNG)
+![Dashboard page 1](dashboard/Dashboard%20page%201.PNG)
 
-<!-- Vidéo 2.mp4 : glisser-déposer ici dans l'éditeur GitHub -->
+**Dashboard page 2**
 
-![Dashboard page 4](dashboard/3.PNG)
+![Dashboard page 2](dashboard/Dashboard%20page%202.PNG)
 
-![Dashboard page 5](dashboard/4.PNG)
+**Dashboard page 3**
 
-<!-- Vidéo 5.mp4 : glisser-déposer ici dans l'éditeur GitHub -->
+https://github.com/user-attachments/assets/9a10421f-c5d6-4d46-8fc1-1410cd8d528b
 
-![Dashboard page 7](dashboard/6.PNG)
+**Dashboard page 4**
 
-![Dashboard page 8](dashboard/7.PNG)
+![Dashboard page 4-1](dashboard/Dashboard%20page%204-1.PNG)
 
-![Dashboard page 9](dashboard/8.PNG)
+![Dashboard page 4-2](dashboard/Dashboard%20page%204-2.PNG)
 
-![Dashboard page 10](dashboard/9.PNG)
+**Dashboard page 5**
 
-![Dashboard page 11](dashboard/10.PNG)
+https://github.com/user-attachments/assets/87c153ac-2106-453f-83e5-47b12f45973b
 
-![Dashboard page 12](dashboard/11.PNG)
+**Dashboard page 6**
 
-<!-- Vidéo 12.mp4 : glisser-déposer ici dans l'éditeur GitHub -->
+![Dashboard page 6-1](dashboard/Dashboard%20page%206-1.PNG)
 
-<!-- Vidéo 13.mp4 : glisser-déposer ici dans l'éditeur GitHub -->
+![Dashboard page 6-2](dashboard/Dashboard%20page%206-2.PNG)
 
+![Dashboard page 6-3](dashboard/Dashboard%20page%206-3.PNG)
+
+**Dashboard page 7**
+
+![Dashboard page 7-1](dashboard/Dashboard%20page%207-1.PNG)
+
+![Dashboard page 7-2](dashboard/Dashboard%20page%207-2.PNG)
+
+![Dashboard page 7-3](dashboard/Dashboard%20page%207-3.PNG)
+
+**Dashboard page 8**
+
+https://github.com/user-attachments/assets/00261549-1aaa-4ef8-8d2d-fb779b56e65c
+
+**Dashboard page 9**
+
+https://github.com/user-attachments/assets/4ad819ed-9e45-47b0-b131-6a113e1ea305
 
 ## Key Results
 
