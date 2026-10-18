@@ -14,3 +14,14 @@ After these projects, I wanted to dive into the world of Data and AI, so I start
 - **Languages & Libraries:** SQL, Python (Pandas, Polars, Matplotlib)
 - **Data Engineering:** Dimensional modeling, ETL pipelines (SSIS), SQL Server, Azure / Microsoft Fabric
 - **Data Science:** Machine learning (supervised and unsupervised)
+
+### ✈️ [Analysis of U.S. Domestic Flight Delays (2019–2025)](./flight-delays)
+
+Understand which factors influence departure delays at US airports, examining them from several angles (airport size, demographics, weather, etc.).
+
+![Dashboard preview flight delays](./flight-delays/dashboard/Dashboard%20page%201.PNG)
+
+## Contact
+
+- **LinkedIn:** [Adrian Lambotte](https://www.linkedin.com/in/adrian-lambotte/)
+- **Email:** [adrian.lambotte@gmail.com](mailto:adrian.lambotte@gmail.com)
